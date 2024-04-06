@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "formulahendry.auto-complete-tag",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "esbenp.prettier-vscode",
+    "vue.volar"
+  ]
+}
