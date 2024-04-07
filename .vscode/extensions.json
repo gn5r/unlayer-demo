@@ -4,6 +4,8 @@
     "visualstudioexptteam.vscodeintellicode",
     "visualstudioexptteam.intellicode-api-usage-examples",
     "esbenp.prettier-vscode",
-    "vue.volar"
+    "vue.volar",
+    "redhat.vscode-yaml",
+    "github.vscode-github-actions"
   ]
 }
